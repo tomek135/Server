@@ -1,0 +1,9 @@
+{
+"templates":[ 
+	{"id":1, "template":"adhghghd"},
+	{"id":2, "template":"ghgfgfg"},
+	{"id":3, "template":"vc vcvcvcv"},
+	{"id":4, "template":"bvcvchgfghc"},
+	{"id":5, "template":"t7thfgfg"},
+	]
+}

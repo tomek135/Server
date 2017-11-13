@@ -1,0 +1,9 @@
+[		
+	{"id":1, "template":"Jestem poza Wydziałem"},
+	{"id":2, "template":"Jestem w sali nr"},
+	{"id":3, "template":"Konsultacje sroda 12-14"},
+	{"id":4, "template":"Dzisiaj jestem niedostępny"},
+	{"id":5, "template":"Witam"},
+	{"id":6, "template":"Testowanie"},
+	{"id":7, "template":"Przykładowy szablon"}
+]
