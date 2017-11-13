@@ -1,24 +1,4 @@
-﻿[2017-11-13 19:59:37]: Witam
-[2017-11-13 19:59:49]: Witam
-[2017-11-13 20:06:30]: Witam
-[2017-11-13 20:10:30]: Witam
-[2017-11-13 20:10:40]: Konsultacje sroda 12-14
-[2017-11-13 20:10:48]: Konsultacje sroda 12-14
-[2017-11-13 20:11:12]: Konsultacje sroda 12-14
-[2017-11-13 20:11:22]: Jestem w sali nr
-[2017-11-13 20:17:38]: Jestem w sali nr
-[2017-11-13 20:17:48]: Konsultacje sroda 12-14
-[2017-11-13 20:19:08]: Testowanie
-[2017-11-13 20:19:21]: Przykładowy szablon
-[2017-11-13 20:25:07]: Przykładowy szablon
-[2017-11-13 20:25:16]: Dzisiaj jestem niedostępny
-[2017-11-13 20:27:06]: Dzisiaj jestem niedostępny
-[2017-11-13 20:27:16]: Witam
-[2017-11-13 20:27:23]: Witam
-[2017-11-13 20:28:02]: Witam
-[2017-11-13 20:28:13]: Przykładowy szablon
-[2017-11-13 20:29:54]: Dzisiaj jestem niedostępny
-[2017-11-13 20:30:02]: Przykładowy szablon
+﻿[2017-11-13 20:30:02]: Przykładowy szablon
 [2017-11-13 20:31:42]: Przykładowy szablon
 [2017-11-13 20:32:52]: Przykładowy szablon
 [2017-11-13 20:34:21]: Jestem poza Wydziałem
@@ -36,5 +16,5 @@
 [2017-11-13 21:23:36]: Testowanie
 [2017-11-13 21:23:43]: Jestem w sali nr
 [2017-11-13 21:23:53]: Przykładowy szablon
-[2017-11-13 21:32:41]: Model
+[2017-11-13 21:32:41]: jhghgh
 [2017-11-13 21:32:48]: Witam
